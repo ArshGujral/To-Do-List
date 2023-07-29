@@ -29,7 +29,7 @@ Local Access:
 2. Open `index.html` in your browser.
 
 Online Access:
-Visit arshgujral.github.io/To-Do-List/
+Visit https://arshgujral.github.io/To-Do-List/
 
 ## Technologies Used
 
